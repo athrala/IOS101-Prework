@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  IOS101-Prework
 //
-//  Created by Rita Zhang on 8/16/23.
+//  Created by Ying Zhang on 8/16/23.
 //
 
 import UIKit
